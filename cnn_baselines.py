@@ -263,7 +263,6 @@ def main():
 
     cnn_configs = {
         'ResNet-18':       'resnet18',
-        'EfficientNet-B0': 'efficientnet_b0',
     }
 
     trained_models = {}
