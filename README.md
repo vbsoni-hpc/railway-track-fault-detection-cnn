@@ -23,7 +23,7 @@ A hybrid deep learning architecture combining Convolutional Neural Networks (Res
 
 ## Dataset
 Railway Track Fault Detection dataset with the following split:
-
+Kaggle Identifier : https://doi.org/10.34740/kaggle/dsv/1884733
 | Split | Defective | Non-defective | Total |
 |-------|-----------|---------------|-------|
 | Train | 150 | 150 | 300 |
@@ -31,9 +31,9 @@ Railway Track Fault Detection dataset with the following split:
 | Test | 11 | 11 | 22 |
 
 ## Results
-- **Best Validation Accuracy:** 80.65% (Epoch 16)
-- **Training Accuracy:** ~82% (Epoch 30)
-
+### RESNET18 + VIT
+- **Best Validation Accuracy:** 85.48%
+- **Training Accuracy:** 91~% 
 ## Data Augmentation
 - Random Horizontal Flip
 - Random Rotation (±15°)
