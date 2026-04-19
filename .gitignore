@@ -1,0 +1,7 @@
+archive/
+data/
+*.pth
+*.ipynb
+*.png
+__pycache__/
+.DS_Store
