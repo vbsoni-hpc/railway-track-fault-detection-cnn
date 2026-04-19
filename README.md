@@ -33,7 +33,7 @@ Railway Track Fault Detection dataset with the following split:
 | Test | 11 | 11 | 22 |
 
 ## Results
-** RESNET18 + VIT
+ RESNET18 + VIT
 - **Best Validation Accuracy:** 85.48%
 - **Training Accuracy:** 91~% 
 ## Data Augmentation
