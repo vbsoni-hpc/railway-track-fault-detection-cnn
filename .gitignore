@@ -1,7 +1,6 @@
-archive/
+archive (1)/
 data/
 *.pth
-*.ipynb
 *.png
 __pycache__/
 .DS_Store
