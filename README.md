@@ -9,7 +9,7 @@
 ## Overview
 A hybrid deep learning architecture combining Convolutional Neural Networks (ResNet-18 / EfficientNet-B0) with a custom Vision Transformer (ViT) implemented from scratch in PyTorch. The model performs binary classification of railway track images into **Defective** and **Non-defective** categories. The `cnn_baselines.py` script isolates and trains the CNNs to extract optimal initial weights, which are then integrated downstream into our hybrid CNN+ViT pipeline inside `hybrid_cnn_+vit.py`.
 
-## Architecture
+## Transformer Architecture
 | Component | Details |
 |-----------|---------|
 | Input Size | 224 × 224 × 3 (RGB) |
@@ -33,7 +33,7 @@ Railway Track Fault Detection dataset with the following split:
 | Test | 11 | 11 | 22 |
 
 ## Results
-### RESNET18 + VIT
+** RESNET18 + VIT
 - **Best Validation Accuracy:** 85.48%
 - **Training Accuracy:** 91~% 
 ## Data Augmentation
@@ -49,6 +49,7 @@ torch
 torchvision
 scikit-learn
 numpy
+timm
 ```
 
 ## Usage
