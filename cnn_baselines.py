@@ -1,6 +1,6 @@
 """
 This script:
-   Trains CNN baselines (ResNet-18, EfficientNet-B0)
+   Trains CNN baselines (ResNet-18)
 """
 
 # ════════════════════════════════════════════════════════════════
