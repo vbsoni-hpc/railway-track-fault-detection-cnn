@@ -79,7 +79,6 @@ python hybrid_cnn_+vit.py
 ├── cnn_baselines.py        # Trains CNN (ResNet/EfficientNet) and exports weights
 ├── hybrid_cnn_+vit.py      # Hybrid architecture execution (CNN features + ViT)
 ├── best_resnet18.pth       # Generated ResNet weights (After running baselines)
-├── best_efficientnet_b0.pth# Generated EfficientNet weights (After running baselines)
 └── README.md
 ```
 
