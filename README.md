@@ -81,6 +81,3 @@ python hybrid_cnn_+vit.py
 ├── best_resnet18.pth       # Generated ResNet weights (After running baselines)
 └── README.md
 ```
-
-## License
-MIT
