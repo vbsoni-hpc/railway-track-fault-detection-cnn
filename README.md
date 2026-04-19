@@ -1,4 +1,4 @@
-# Railway Track Fault Detection using Vision Transformer
+# Railway Track Fault Detection using CNN and Vision Transformer
 
 **EE655: Computer Vision — Course Project, IIT Kanpur**
 
