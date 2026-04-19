@@ -22,8 +22,9 @@ A hybrid deep learning architecture combining Convolutional Neural Networks (Res
 | Total Parameters | 919,170 |
 
 ## Dataset
-Railway Track Fault Detection dataset with the following split:
 Kaggle Identifier : https://doi.org/10.34740/kaggle/dsv/1884733
+Railway Track Fault Detection dataset with the following split:
+
 | Split | Defective | Non-defective | Total |
 |-------|-----------|---------------|-------|
 | Train | 150 | 150 | 300 |
